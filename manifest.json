@@ -1,6 +1,10 @@
 {
-    "url":  "aquamx-home-0.9.34-52.apk",
-    "versionCode":  52,
-    "versionName":  "0.9.34",
-    "sha256":  "61ac008b42d6c340999fb55823ad721e2a5bd441f30bc319cfde4c6788c46b25"
+    "fleetAfter":  "2026-10-10T13:47:39Z",
+    "versionName":  "0.9.36",
+    "canary":  [
+                   "SD2603-001"
+               ],
+    "sha256":  "8636831d22c5d0161e62ca184ab5df639d0a13aa8e2b4221c4501726850fedb1",
+    "versionCode":  54,
+    "url":  "aquamx-home-0.9.36-54.apk"
 }
